@@ -1,0 +1,15 @@
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v3-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe.config
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v3-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v3-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4v3-kajim.csprojResolveAssemblyReference.cache
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+L:\School\Fall2016\Algorithm Design\asst4-kajimFOUR\a4v3-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe.config
+L:\School\Fall2016\Algorithm Design\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+L:\School\Fall2016\Algorithm Design\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+L:\School\Fall2016\Algorithm Design\asst4-kajimFOUR\a4v3-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+L:\School\Fall2016\Algorithm Design\asst4-kajimFOUR\a4v3-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+L:\School\Fall2016\Algorithm Design\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4v3-kajim.csprojResolveAssemblyReference.cache
+C:\Users\kajif\Desktop\testbed\asst4-kajimFOUR\a4v3-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe.config
+C:\Users\kajif\Desktop\testbed\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\Users\kajif\Desktop\testbed\asst4-kajimFOUR\a4v3-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb

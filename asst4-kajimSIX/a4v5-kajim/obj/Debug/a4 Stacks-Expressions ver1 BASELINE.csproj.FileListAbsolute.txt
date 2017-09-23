@@ -1,0 +1,14 @@
+C:\000 Testbed 28sept2016\a4 Stacks-Expressions ver1 BASELINE\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe.config
+C:\000 Testbed 28sept2016\a4 Stacks-Expressions ver1 BASELINE\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\000 Testbed 28sept2016\a4 Stacks-Expressions ver1 BASELINE\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+C:\000 Testbed 28sept2016\a4 Stacks-Expressions ver1 BASELINE\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\000 Testbed 28sept2016\a4 Stacks-Expressions ver1 BASELINE\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+C:\00 2016fall\00 2016fall ALG assts-tests\2016 ALG a4-Stacks\a4 Stacks-Expressions STARTER PACKAGE 15nov\a4 Stacks-Expressions ver1 BASELINE\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe.config
+C:\00 2016fall\00 2016fall ALG assts-tests\2016 ALG a4-Stacks\a4 Stacks-Expressions STARTER PACKAGE 15nov\a4 Stacks-Expressions ver1 BASELINE\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\00 2016fall\00 2016fall ALG assts-tests\2016 ALG a4-Stacks\a4 Stacks-Expressions STARTER PACKAGE 15nov\a4 Stacks-Expressions ver1 BASELINE\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+C:\00 2016fall\00 2016fall ALG assts-tests\2016 ALG a4-Stacks\a4 Stacks-Expressions STARTER PACKAGE 15nov\a4 Stacks-Expressions ver1 BASELINE\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.csprojResolveAssemblyReference.cache
+C:\00 2016fall\00 2016fall ALG assts-tests\2016 ALG a4-Stacks\a4 Stacks-Expressions STARTER PACKAGE 15nov\a4 Stacks-Expressions ver1 BASELINE\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\00 2016fall\00 2016fall ALG assts-tests\2016 ALG a4-Stacks\a4 Stacks-Expressions STARTER PACKAGE 15nov\a4 Stacks-Expressions ver1 BASELINE\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v2-kajim\bin\Debug\a4 Stacks-Expressions ver1 BASELINE.exe.config
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v2-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.exe
+C:\Users\1411266\Desktop\A4\asst4-kajimFOUR\a4v2-kajim\obj\Debug\a4 Stacks-Expressions ver1 BASELINE.pdb
